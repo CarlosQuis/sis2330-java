@@ -1,0 +1,7 @@
+target/
+node_modules/
+.vaadin/
+src/main/frontend/generated/
+*.class
+.idea/
+.vscode/
