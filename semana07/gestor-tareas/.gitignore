@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Java
+*.class
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Vaadin
+src/main/frontend/
